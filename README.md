@@ -1,20 +1,11 @@
-### Hi there, My name is Kleverton Oliveira! 👋
+## Hi there, My name is Kleverton Oliveira! 👋
 
-## I'm a Junior Web Developer passionate about solving problems using programming!
-!!
+### I'm a Web Developer passionate about solving problems using programming!
 
 - 🔭 Graduated in Computer Science from the Federal University of Alagoas (UFAL/BRAZIL).
 - 🌱 I’m currently learning the Front-End technologies, focusing on ReactJS at the moment.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and keyboards!
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -33,6 +24,12 @@
 <br />
 <br />
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 [instagram]: https://www.instagram.com/klevoliveira/
 [linkedin]: https://www.linkedin.com/in/kleverton-oliveira-1393ba1b8/
