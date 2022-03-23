@@ -1,10 +1,10 @@
-## Hi there, My name is Kleverton Oliveira! 👋
+## Hi there, my name is Kleverton Oliveira! 👋
 
 ### I'm a Web Developer passionate about solving problems using programming!
 
 - 🔭 Graduated in Computer Science from the Federal University of Alagoas (UFAL/BRAZIL).
 - 🌱 I’m currently learning the Front-End technologies, focusing on ReactJS at the moment.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and keyboards!
 
 ### Languages and Tools:
