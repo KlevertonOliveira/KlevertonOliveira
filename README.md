@@ -41,3 +41,4 @@
 <a href="https://klevertonoliveira.vercel.app/"><img src="https://img.shields.io/static/v1?label=Portfolio&message=https://klevertonoliveira.vercel.app/&logo=website&logoColor=white&color=blue&style=plastic"/></a>
   
   
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
