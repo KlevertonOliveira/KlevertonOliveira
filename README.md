@@ -1,4 +1,4 @@
-# Hi there, I'm Kleverton Oliveira! :wave:
+# Hi there, I'm Kleverton Oliveira! <img alt = gif src ="hand-waving.gif" width= "30"/>
 
 <a href="https://github.com/KlevertonOliveira"><img src="https://media-exp2.licdn.com/dms/image/C4D16AQFv2Zzu4dPhdw/profile-displaybackgroundimage-shrink_200_800/0/1655292265818?e=1660780800&v=beta&t=B_aMBsi9BU7i4kjh3ilJl1bH0lsicx1OUIxLT7T1KYY" alt="Kleverton Oliveira's Github README's cover" title="Kleverton Oliveira's Github README"></a>
 
@@ -7,12 +7,12 @@
 💻 Computer Scientist<br>
 💻 Front-end Web Developer<br>
 
-### I'm a Web Developer passionate about solving problems using programming!
+### About me:
 
-- 🔭 I'm graduated in Computer Science at Federal University of Alagoas (UFAL/BRAZIL).
-- 🌱 I’m currently studying the Front-End technologies and working on projects (focusing on Reactjs).
+- 🔭 I am graduated in Computer Science at Federal University of Alagoas (UFAL/BRAZIL).
+- 🌱 I'm a Web Developer currently studying the Front-End technologies and working on projects focusing on Reactjs.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love music and to play guitar and keyboards!
+- ⚡ Fun facts: I love Chess and to play guitar and keyboards!
 
 ### Technologies I'm used to work with:
 
@@ -26,10 +26,10 @@
 
 ### &nbsp;GitHub Analytics:
 
-<div align="center">
-  <a href="https://github.com/IvambergSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KlevertonOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlevertonOliveira&layout=compact&langs_count=7&theme=dark"/>
+<div>
+  <a href="https://github.com/KlevertonOliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KlevertonOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlevertonOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br>
@@ -41,19 +41,5 @@
 
 ### :link: My Website:
 <a href="https://klevertonoliveira.vercel.app/"><img src="https://img.shields.io/static/v1?label=Portfolio&message=https://klevertonoliveira.vercel.app/&logo=website&logoColor=white&color=blue&style=plastic"/></a>
-
-
-<!--
-**anamariasilva/anamariasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Vi
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
