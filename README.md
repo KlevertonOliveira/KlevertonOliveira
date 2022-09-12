@@ -1,7 +1,5 @@
 # Hi there, I'm Kleverton Oliveira! <img alt = gif src ="hand-waving.gif" width= "30"/>
 
-<a href="https://github.com/KlevertonOliveira"><img src="https://media-exp2.licdn.com/dms/image/C4D16AQFv2Zzu4dPhdw/profile-displaybackgroundimage-shrink_200_800/0/1655292265818?e=1660780800&v=beta&t=B_aMBsi9BU7i4kjh3ilJl1bH0lsicx1OUIxLT7T1KYY" alt="Kleverton Oliveira's Github README's cover" title="Kleverton Oliveira's Github README"></a>
-
 ### <code>Hello World, devs!</code>
 
 💻 Computer Scientist<br>
