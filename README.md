@@ -5,7 +5,7 @@
 ### <code>Hello World, devs!</code>
 
 💻 Computer Scientist<br>
-💻 Front-end Web Developer<br>
+💻 Full Stack Web Developer<br>
 <br>
 
 ## About me:
