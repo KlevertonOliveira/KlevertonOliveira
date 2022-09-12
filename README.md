@@ -3,7 +3,7 @@
 ### <code>Hello World, devs!</code>
 
 💻 Computer Scientist<br>
-💻 Full Stack Web Developer<br>
+💻 Full Stack Developer<br>
 <br>
 
 ## About me:
