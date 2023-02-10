@@ -1,3 +1,5 @@
+<img src="background.png"/>
+
 # Hi there, I'm Kleverton Oliveira! <img alt = gif src ="hand-waving.gif" width= "30"/>
 
 ### <code>Hello World, devs!</code>
