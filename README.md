@@ -9,7 +9,7 @@
 ## About me:
 
 - 🔭 I am graduated in Computer Science at Federal University of Alagoas (UFAL/BRAZIL) and a Full Stack Web Developer!
-- 🌱 Currently, I'm studying more about TDD, SOLID, Clean Architecture and Design Patterns.
+- 🌱 Currently, I'm learning more about TDD, SOLID, Clean Architecture and Design Patterns.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun facts: I love Chess and to play guitar and keyboards!
 <br>
