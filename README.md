@@ -1,4 +1,4 @@
-<img src="background.png"/>
+<img src="background.png" alt="background image of a computer's keyboard overlapped by the words 'Kleverton Oliveira' and 'Full Stack Web Developer.'/>
 
 # Hi there, I'm Kleverton Oliveira! <img alt = gif src ="hand-waving.gif" width= "30"/>
 
